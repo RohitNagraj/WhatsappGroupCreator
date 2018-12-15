@@ -27,4 +27,4 @@ A python project that automatically fetches contacts from a google sheet and cre
   successfully create the group and some human correction would be required. 
   Also, this script doesn't delete the added contacts but it makes it easy for the user to delete it if he chooses to.
  
-# Happy texting :)
+## Happy texting :)
